@@ -1,0 +1,9 @@
+.binary-tree-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.binaryTree-slider-wrapper{
+  display: flex;
+  justify-content: start;
+}

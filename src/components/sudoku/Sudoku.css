@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
+
+.outer-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.grid-cells-row{
+  white-space: nowrap;
+}
+
+.sudoku-solve-status{
+  margin: 0;
+  color:#addb67;
+  font-family: 'Quicksand', sans-serif ;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.sodoku-win-greeting{
+  color:#addb67;
+}
+
+.sudoku-wrong-message{
+  color:#EF5350; 
+}
